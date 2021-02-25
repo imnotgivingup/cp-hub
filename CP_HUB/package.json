@@ -1,0 +1,22 @@
+{
+  "name": "yolo",
+  "version": "1.0.0",
+  "description": "nada",
+  "main": "app.js",
+  "scripts": {
+    "test": "-"
+  },
+  "repository": {
+    "type": "git",
+    "url": "-"
+  },
+  "keywords": [
+    "-"
+  ],
+  "author": "-",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "child_process": "^1.0.2",
+    "express-session": "^1.17.1"
+  }
+}

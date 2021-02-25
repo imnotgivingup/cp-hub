@@ -1,0 +1,4 @@
+  File "C:\Users\Praneeth\Desktop\Exts\node\cron\entries\err.py", line 1
+    pint(this be error)
+              ^
+SyntaxError: invalid syntax
